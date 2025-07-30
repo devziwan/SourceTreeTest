@@ -13,7 +13,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print(#file, #function, #line, "첫번째 주석")
-        print(#file, #function, #line, "두번째 주석")
     }
 
 
