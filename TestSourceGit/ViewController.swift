@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print(#file, #function, #line, "세번째 주석")
         print(#file, #function, #line, "원격자장소 PUSH 주석")
         print(#file, #function, #line, "원격자장소 PUSH 주석1")
+        print(#file, #function, #line, "원격자장소 PUSH 주석2")
     }
 
 
