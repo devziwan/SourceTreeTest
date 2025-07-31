@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print(#file, #function, #line, "원격자장소 PUSH 주석2")
         print(#file, #function, #line, "원격자장소 PUSH 주석3")
         print(#file, #function, #line, "원격자장소 PUSH 주석3 성공")
+        print(#file, #function, #line, "원격자장소 PUSH 주석3 성공2")
     }
 
 
